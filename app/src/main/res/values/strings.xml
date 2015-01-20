@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz</string>
+   <string name="button">True</string>
+    <string name="button2">False</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="question_1">Hva er størrelsen på månen ?</string>
+    <string name="question_2">Hva er størrelsen på Mars ?</string>
+    <string name="question_3">Hva er størrelsen på Jorden ?</string>
+    <string name="question_4">Hva er størrelsen på Venus ?</string>
+    <string name="question_5">Hva er størrelsen på Pluto ?</string>
+    <string name="question_6">Hva er størrelsen på Solen ?</string>
+    <string name="question_7">Hva er størrelsen på ASDKj ?</string>
+    <string name="question_8">Hva er radiusen på en fotball ?</string>
+    <string name="question_9">Hva er størrelsen på månen ?</string>
+    <string name="question_10">Hva er størrelsen på månen ?</string>
+
+</resources>
